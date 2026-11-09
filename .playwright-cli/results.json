@@ -1,0 +1,22 @@
+{
+  "status": "passed",
+  "checks": [
+    "worker",
+    "table",
+    "six imports",
+    "cleaning",
+    "formula",
+    "undo/redo",
+    "six exports",
+    "validation",
+    "charts",
+    "mock API",
+    "webhook",
+    "persistence",
+    "command palette",
+    "REST",
+    "mobile"
+  ],
+  "consoleErrors": [],
+  "date": "2026-11-09T11:02:21.325Z"
+}
